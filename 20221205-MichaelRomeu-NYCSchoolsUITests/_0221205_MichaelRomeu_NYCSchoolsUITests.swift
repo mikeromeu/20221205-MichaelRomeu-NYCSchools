@@ -26,6 +26,15 @@ final class _0221205_MichaelRomeu_NYCSchoolsUITests: XCTestCase {
         // UI tests must launch the application that they test.
         let app = XCUIApplication()
         app.launch()
+        
+        let tablesQuery = app.tables
+        tablesQuery/*@START_MENU_TOKEN@*/.staticTexts["URBAN ASSEMBLY ACADEMY OF GOVERNMENT AND LAW, THE"]/*[[".cells.staticTexts[\"URBAN ASSEMBLY ACADEMY OF GOVERNMENT AND LAW, THE\"]",".staticTexts[\"URBAN ASSEMBLY ACADEMY OF GOVERNMENT AND LAW, THE\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/.tap()
+        
+        let schoolsButton = app.navigationBars["_0221205_MichaelRomeu_NYCSchools.SchoolDetailVC"].buttons["Schools"]
+        schoolsButton.tap()
+        tablesQuery/*@START_MENU_TOKEN@*/.staticTexts["BUSINESS OF SPORTS SCHOOL"]/*[[".cells.staticTexts[\"BUSINESS OF SPORTS SCHOOL\"]",".staticTexts[\"BUSINESS OF SPORTS SCHOOL\"]"],[[[-1,1],[-1,0]]],[0]]@END_MENU_TOKEN@*/.tap()
+        schoolsButton.tap()
+                
 
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
