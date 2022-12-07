@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "12A09D97-90F1-4909-B331-9C0BD1BF6B86"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D5B95535-D30E-44D1-AFA9-18F2B349D920"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getSchoolSATData(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E23F043-185E-4675-9A2B-89BFEB461151"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getSchoolSATData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E23F043-185E-4675-9A2B-89BFEB461151 - 635391ff38d6336c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for _0221205_MichaelRomeu_NYCSchools.NYCSchoolService.getSchoolSATData(Swift.String) async throws -&gt; Swift.Optional&lt;_0221205_MichaelRomeu_NYCSchools.SchoolSATM&gt;"
+                  moduleName = "20221205-MichaelRomeu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/20221205-MichaelRomeu-NYCSchools/20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "162">
+               </Location>
+               <Location
+                  uuid = "6E23F043-185E-4675-9A2B-89BFEB461151 - 635391ff38d6336c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for _0221205_MichaelRomeu_NYCSchools.NYCSchoolService.getSchoolSATData(Swift.String) async throws -&gt; Swift.Optional&lt;_0221205_MichaelRomeu_NYCSchools.SchoolSATM&gt;"
+                  moduleName = "20221205-MichaelRomeu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/20221205-MichaelRomeu-NYCSchools/20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "550">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1AFFF56-2752-4E17-B302-81443162F890"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getSchoolSATData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1AFFF56-2752-4E17-B302-81443162F890 - 635391ff38d633e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for _0221205_MichaelRomeu_NYCSchools.NYCSchoolService.getSchoolSATData(Swift.String) async throws -&gt; Swift.Optional&lt;_0221205_MichaelRomeu_NYCSchools.SchoolSATM&gt;"
+                  moduleName = "20221205-MichaelRomeu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/20221205-MichaelRomeu-NYCSchools/20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "B1AFFF56-2752-4E17-B302-81443162F890 - 726cca2c2b27dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for _0221205_MichaelRomeu_NYCSchools.NYCSchoolService.getSchoolSATData(Swift.String) async throws -&gt; Swift.Optional&lt;_0221205_MichaelRomeu_NYCSchools.SchoolSATM&gt;"
+                  moduleName = "20221205-MichaelRomeu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/20221205-MichaelRomeu-NYCSchools/20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  uuid = "B1AFFF56-2752-4E17-B302-81443162F890 - 100a50582445b78a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for _0221205_MichaelRomeu_NYCSchools.NYCSchoolService.getSchoolSATData(Swift.String) async throws -&gt; Swift.Optional&lt;_0221205_MichaelRomeu_NYCSchools.SchoolSATM&gt;"
+                  moduleName = "20221205-MichaelRomeu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/20221205-MichaelRomeu-NYCSchools/20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "B1AFFF56-2752-4E17-B302-81443162F890 - 6e9ef375a7fa69bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for _0221205_MichaelRomeu_NYCSchools.NYCSchoolService.getSchoolSATData(Swift.String) async throws -&gt; Swift.Optional&lt;_0221205_MichaelRomeu_NYCSchools.SchoolSATM&gt;"
+                  moduleName = "20221205-MichaelRomeu-NYCSchools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Downloads/20221205-MichaelRomeu-NYCSchools/20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDF2B3B6-E4A8-42C5-87E5-73C573653659"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20221205-MichaelRomeu-NYCSchools/View/SchoolDetail/SchoolDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getSchoolDetails()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA2755ED-85C7-43FC-8092-708340B264DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20221205-MichaelRomeu-NYCSchools/Network/NYCSchoolService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getSchoolSATData(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C792571-B7CF-4B60-91A8-DA913A9B915D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20221205-MichaelRomeu-NYCSchools/View/SchoolDetail/SchoolDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
